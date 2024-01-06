@@ -1,6 +1,6 @@
 {
-    "name": "grzesbank_app",
-    "short_name": "grzesbank_app",
+    "name": "Grzesbank24",
+    "short_name": "Grzesbank24",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
