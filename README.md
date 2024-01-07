@@ -4,8 +4,7 @@
 2. **Kompatybilność aplikacji mobilnej i łączność z API** - jest
 3. **UI - spójność, HQ ikony, długie odpowiedzi UI z ikonami oczekiwania, walidacja danych** - jest
 4. **Język, tryby jasności** - polski/angielski, tryb jasny/ciemny
-5. **OAuth Social login** - jest logowanie przez Google, rejestracji brak ze wzgl. na charakterystykę projektu
-(rejestracja w banku)
+5. **OAuth Social login** - jest logowanie/rejestracja przez Google
 6. **Dostęp do zasobów sprzętowych** - jest gps do pokazania najbliższego oddziału banku
 7. **Wspólna warstwa serwisów dla aplikacji mobilnej i web** - jest api/
 
